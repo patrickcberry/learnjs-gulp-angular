@@ -3,13 +3,13 @@ Recreate the LearnJS project from [Serverless Single Page Apps](https://pragprog
 
 # Gulp
 ## Build and Deploy Client
-[ ] Build application - Concatenate HTML & CSS
-[ ] Build - run tests
-[ ] Run local server (with live reload)
-[ ] Deploy - Compress images in build folders
-[ ] Deploy - Minify HTML & CSS
-[ ] Deploy - Create S3 bucket
-[ ] Deploy - Copy to S3 bucket
+- [ ] Build application - Concatenate HTML & CSS
+- [ ] Build - run tests
+- [ ] Run local server (with live reload)
+- [ ] Deploy - Compress images in build folders
+- [ ] Deploy - Minify HTML & CSS
+- [ ] Deploy - Create S3 bucket
+- [ ] Deploy - Copy to S3 bucket
 
 # Jasmine
 
