@@ -1,0 +1,32 @@
+{
+  "name": "learnjs-gulp-angular",
+  "version": "1.0.0",
+  "description": "Recreate the LearnJS project from [Serverless Single Page Apps](https://pragprog.com/book/brapps/serverless-single-page-apps) by Ben Rady,  using Gulp and Angular.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickcberry/learnjs-gulp-angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickcberry/learnjs-gulp-angular/issues"
+  },
+  "homepage": "https://github.com/patrickcberry/learnjs-gulp-angular#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-filter": "^5.0.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-print": "^2.0.1",
+    "gulp-util": "^3.0.8",
+    "jasmine": "^2.8.0",
+    "jshint": "^2.9.5",
+    "jshint-stylish": "^2.2.1"
+  }
+}

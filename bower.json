@@ -1,0 +1,17 @@
+{
+  "name": "learnjs-gulp-angular",
+  "description": "Recreate the LearnJS project from [Serverless Single Page Apps](https://pragprog.com/book/brapps/serverless-single-page-apps) by Ben Rady,  using Gulp and Angular.",
+  "main": "index.js",
+  "authors": [
+    "patrickcberry <patrickcberry@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/patrickcberry/learnjs-gulp-angular",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
